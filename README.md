@@ -4,6 +4,7 @@
 
 - [Mary Coloma](https://github.com/marycoloma)
 - [Ariana Izon-charles](https://github.com/arianacic)
+- [Xyrenne Bastian](https://github.com/XyrenneB1)
 
 ---
 
