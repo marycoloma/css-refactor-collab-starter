@@ -3,7 +3,7 @@
 ## Team Members
 
 - [Mary Coloma](https://github.com/marycoloma)
-- [Ashlyn Knox](https://github.com/ashx3s/css-refactor-collab-starter.git)
+- [Ariana Izon-charles](https://github.com/arianacic)
 
 ---
 
